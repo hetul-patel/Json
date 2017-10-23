@@ -260,7 +260,7 @@ We will use **OkHTTP3** library to send GET and POST request to our PHP scripts.
 </LinearLayout>
 ```
 
-###itemlistrow.xml ( Listview Layout )
+### itemlistrow.xml ( Listview Layout )
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
